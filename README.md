@@ -1,7 +1,6 @@
 
 ### Hi there 👋, my name is Buthaina 
 #### I am a UI/UX  designer 
-![I am a UI/UX  designer ]
 <img src = "![image](https://user-images.githubusercontent.com/113937040/235502995-f497f003-8425-4a0f-ab4d-b7c0c5e5f5ff.png)
 " alt = "gif"/>
 
