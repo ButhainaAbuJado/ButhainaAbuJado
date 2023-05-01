@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Buthaina 
 #### I am a UI/UX  designer 
-![I am a UI/UX  designer ](![image](https://user-images.githubusercontent.com/113937040/235497380-b4889787-8470-4679-ba05-9f298011b42b.png)
+![I am a UI/UX  designer ](![image](![image](https://user-images.githubusercontent.com/113937040/235497779-bc8ab10f-bc23-43a2-b5f6-dcd571e7063c.png))
 
 I am a fresh graduate, and I am now studying at Luminus College on a UI/UX designer scholarship. I hope to get a job after that because I love creative designs, practical life, and I have good communication skills with others
 
